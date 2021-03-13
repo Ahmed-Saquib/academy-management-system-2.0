@@ -8,15 +8,7 @@ Academy management system for teachers, staff, and students to easily manage aca
 
 
 
-
-
-
-
-
-
-
-				
-			instructions -
+	instructions -
 
 	Step 1. Database creation - 
 			create a database "school" and import school.sql file from model. 
