@@ -15,9 +15,9 @@ Academy management system for teachers, staff, and students to easily manage aca
 				
 			instructions -
 
-Step 1. Database creation - 
+	Step 1. Database creation - 
 			create a database "school" and import school.sql file from model. 
-Step 2. Login details - (can check from db)
+	Step 2. Login details - (can check from db)
 			Admin: 
 				id - 000
  				username - admin
@@ -28,7 +28,7 @@ Step 2. Login details - (can check from db)
 				password - aaa
 				find more from database
 
-Code details -
+	Code details -
 
 	controller/login.php - runs login page for admin & student
 
