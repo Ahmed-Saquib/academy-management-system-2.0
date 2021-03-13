@@ -2,21 +2,31 @@
 Academy management system for teachers, staff, and students to easily manage academic information such as students information, teachers information, academic results, payments, etc. Project contains - html, CSS, bootstrap, PHP, MySQL, PHPUnit testing. Project follows - MVC, OOP.
 
 
-instructions -
+
+
+
+
+
+
+
+
+
+
+				
+			instructions -
 
 Step 1. Database creation - 
 			create a database "school" and import school.sql file from model. 
 Step 2. Login details - (can check from db)
-			Admin 
+			Admin: 
 				id - 000
  				username - admin
 				password - admin
-			student 
+			student: 
 				id - 111		
 				username - aaa	
 				password - aaa
-			
-			find more from database
+				find more from database
 
 Code details -
 
